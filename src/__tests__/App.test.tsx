@@ -15,7 +15,7 @@ test("renders component with no file name", async () => {
     />
   );
 
-  act(async () => {
+  await act(async () => {
     await comp?.findByTestId("file-name");
   });
 
@@ -30,7 +30,7 @@ test("renders component with no header", async () => {
     />
   );
 
-  act(async () => {
+  await act(async () => {
     await comp?.findByTestId("header-bar");
   });
 

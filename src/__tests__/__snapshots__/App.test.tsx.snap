@@ -2,17 +2,17 @@
 
 exports[`renders component with no documents 1`] = `
 <div
-  class="sc-fznWqX cxRsBy"
+  class="sc-jIZahH ioovfF"
   data-testid="react-doc-viewer"
   id="react-doc-viewer"
 >
   <div
-    class="sc-Axmtr geoSRH"
+    class="sc-ftvSup gJqVsw"
     data-testid="header-bar"
     id="header-bar"
   />
   <div
-    class="sc-AxmLO bNNfcA"
+    class="sc-papXJ hfMolP"
     id="proxy-renderer"
   >
     <div
